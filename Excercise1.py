@@ -1,3 +1,4 @@
+# Easy Level
 # Write a program calculate sum of 2 integers a và b
 # input : 2 integers from the user input
 # output : sum of 2 integers

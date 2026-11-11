@@ -1,3 +1,4 @@
+# Easy Level
 # write a program that switch value from 2 integers inputed from user
 # input : 2 integers from keyboard
 # output : 2 values switched
