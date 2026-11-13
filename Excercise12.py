@@ -9,10 +9,14 @@ try :
 except ValueError:
     print("Please input a integer number")
 else :
-    if a >= b and a >= c:
-        print("the largest number is ",a)
-    elif b >= a and b >= c :
-        print("the largest number is ",b)
-    else :
-        print("the largest number is ",c)
+     number =[a,b,c]
+     print(max(number))
+# Method 1:    print(max(a,b,c))
+#
+# Method 2:    if a >= b and a >= c:
+#        print("the largest number is ",a)
+#    elif b >= a and b >= c :
+#        print("the largest number is ",b)
+#    else :
+#        print("the largest number is ",c)
     
