@@ -1,5 +1,5 @@
 # write a program that caculate factory of n : n!
-# input : positive interger n >=0
+# input : positive integer n >=0
 # output : the value of n factory
 
 import math

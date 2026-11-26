@@ -1,5 +1,5 @@
 # write a program that check whether a number is a element number?
-# input : interger n, n >= 1
+# input : integer n, n >= 1
 # output : n is element number or not?
 # element number : Chỉ có đúng 2 ước số dương (chỉ chia hết cho 1 và chính nó)
 
@@ -21,7 +21,7 @@ else :
         if count == 2 :
             print(f"{n} is an element number")
         else :
-            print(f"{n} is not an element number")
+            print(f"{n} is not an element number0")
             
             
               
